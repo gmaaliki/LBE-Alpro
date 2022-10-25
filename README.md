@@ -10,4 +10,6 @@ NRP      : 5025211149<br />
 Nama     : Faiz Haq Noviandra Ciptadi Putra<br />
 NRP      : 5025211132<br />
 <br />
-
+Nama     : Made Nanda Wija Vahindra<br />
+NRP      : 5025211160<br />
+<br />
